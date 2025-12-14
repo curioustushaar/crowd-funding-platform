@@ -10,6 +10,14 @@ This project is a learning-focused dApp that demonstrates blockchain integration
 
 ---
 
+## 🌐 Live Demo
+
+**Visit the live application:** [http://crowdfundbytushar.netlify.app](http://crowdfundbytushar.netlify.app)
+
+> **Note:** Make sure MetaMask is installed and you're on the Sepolia testnet to interact with the dApp.
+
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend
